@@ -2,6 +2,10 @@
 ## Arumino
 - name: Arumino
 - like: yamaokaya
+
+## lencon
+- name: lencon
+- like: game
 ## Haru0707
 - name: Haru0707
 - like: YoshinoyaS

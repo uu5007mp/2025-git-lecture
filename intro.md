@@ -5,6 +5,9 @@
 - name: Arumino
 - like: yamaokaya
 
+## izyiRX
+- name; izyiRX
+- suki like koto; take photo
 ## lencon
 - name: lencon
 - like: game
